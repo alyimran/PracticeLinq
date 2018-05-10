@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\linqpractice\linqpractice\bin\Debug\linqpractice.exe.config
+C:\Users\Dell\source\repos\linqpractice\linqpractice\bin\Debug\linqpractice.exe
+C:\Users\Dell\source\repos\linqpractice\linqpractice\bin\Debug\linqpractice.pdb
+C:\Users\Dell\source\repos\linqpractice\linqpractice\obj\Debug\linqpractice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\linqpractice\linqpractice\obj\Debug\linqpractice.exe
+C:\Users\Dell\source\repos\linqpractice\linqpractice\obj\Debug\linqpractice.pdb
+C:\Users\Dell\source\repos\linqpractice\linqpractice\obj\Debug\linqpractice.csprojResolveAssemblyReference.cache

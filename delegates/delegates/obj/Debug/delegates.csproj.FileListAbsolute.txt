@@ -1,0 +1,7 @@
+c:\users\dell\source\repos\delegates\delegates\bin\Debug\delegates.exe.config
+c:\users\dell\source\repos\delegates\delegates\bin\Debug\delegates.exe
+c:\users\dell\source\repos\delegates\delegates\bin\Debug\delegates.pdb
+c:\users\dell\source\repos\delegates\delegates\obj\Debug\delegates.csprojResolveAssemblyReference.cache
+c:\users\dell\source\repos\delegates\delegates\obj\Debug\delegates.csproj.CoreCompileInputs.cache
+c:\users\dell\source\repos\delegates\delegates\obj\Debug\delegates.exe
+c:\users\dell\source\repos\delegates\delegates\obj\Debug\delegates.pdb

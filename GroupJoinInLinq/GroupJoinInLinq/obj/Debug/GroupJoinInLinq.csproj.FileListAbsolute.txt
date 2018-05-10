@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\GroupJoinInLinq\GroupJoinInLinq\bin\Debug\GroupJoinInLinq.exe.config
+C:\Users\Dell\source\repos\GroupJoinInLinq\GroupJoinInLinq\bin\Debug\GroupJoinInLinq.exe
+C:\Users\Dell\source\repos\GroupJoinInLinq\GroupJoinInLinq\bin\Debug\GroupJoinInLinq.pdb
+C:\Users\Dell\source\repos\GroupJoinInLinq\GroupJoinInLinq\obj\Debug\GroupJoinInLinq.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\GroupJoinInLinq\GroupJoinInLinq\obj\Debug\GroupJoinInLinq.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\GroupJoinInLinq\GroupJoinInLinq\obj\Debug\GroupJoinInLinq.exe
+C:\Users\Dell\source\repos\GroupJoinInLinq\GroupJoinInLinq\obj\Debug\GroupJoinInLinq.pdb

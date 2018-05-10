@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\Dell\source\repos\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\Dell\source\repos\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\Dell\source\repos\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\Dell\source\repos\Linq\Linq\obj\Debug\Linq.pdb
